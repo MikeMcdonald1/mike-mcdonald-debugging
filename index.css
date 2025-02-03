@@ -1,3 +1,4 @@
+/* Styling for the whole ass game */
 main {
   display: flex;
   justify-content: center;
@@ -6,10 +7,12 @@ main {
   margin: auto;
 }
 
+/* Styling for the guess or number selector */
 #guess {
   width: 5em;
 }
 
+/* Styling for the resest button */
 #reset {
   margin: 20px;
 }
